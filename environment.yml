@@ -27,6 +27,6 @@ dependencies:
   - hvplot
   - datashader
   - xarray-spatial
-  - zarr
+  - zarr<3
   - tqdm
   - pip
