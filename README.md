@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastscape-lem/fastscape-demo/master?urlpath=lab)
-[![Test notebooks](https://github.com/fastscape-lem/fastscape-demo/workflows/Test%20notebooks/badge.svg)](https://github.com/fastscape-lem/fastscape-demo/actions)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alliebalter-kennedy/fastscape-demo/HEAD)
 
 # FastScape Demo
 
